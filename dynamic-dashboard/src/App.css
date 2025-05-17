@@ -1,11 +1,12 @@
-#root {
+#body {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
-  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
 }
 
-.logo {
+.taskList {
+  color: violet;
   height: 6em;
   padding: 1.5em;
   will-change: filter;
